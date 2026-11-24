@@ -1,0 +1,1 @@
+{"description":"Last Text at One Percent — the funniest final text a dying phone sends at 1% battery","license":"MIT","main":"main.ts","name":"makefun-last-text-one-percent","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
